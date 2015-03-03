@@ -18,7 +18,7 @@
     [super viewDidLoad];
     MyTest * viewDemo = [[MyTest alloc] init] ;
     
-    CALayer *myLayer = [CALayer layer];   
+    CALayer *myLayer = [CALayer layer];   //add
     
     
     [self setView:viewDemo] ;
